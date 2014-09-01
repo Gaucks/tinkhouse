@@ -1,0 +1,76 @@
+.header{
+    display: table;
+    width: 100%;
+    height: 50px;
+    padding: 0 0 0 20px;
+    position: relative;
+
+    border-bottom: 3px solid #a07ab8;
+
+    text-align: left;
+}
+
+.input{
+    padding: 5px;
+    font-size: 12px;
+    border: 1px solid #eee;
+}
+
+.input-search{
+    margin-top: 10px;
+    border-radius: 20px;
+    width: 260px;
+    outline: none;
+    border-color: #aaaaaa;
+}
+
+.input-search:hover{
+    border-color: #a07ab8;
+}
+
+.header>div{ display: table-cell; vertical-align:top; }
+
+.header-search{
+    line-height: 3.4em;
+
+    position: relative;
+    height: 100%;
+}
+
+.header-log-connected{
+    position: relative;
+
+    height: 100%;
+    width: 65%;
+}
+
+.header-log-connected ul.list-log-header-menu{
+    display: inline-block;
+    height: 49px;
+    float: right;
+}
+
+.header-log-connected li.list-log{
+    display: inline-block;
+    height: 49px;
+    padding: 10px 7px;
+    line-height: 2em;
+    float: left;
+}
+
+.header-log-connected li.list-log-menu{
+    height: 52px;
+    margin-left: 20px;
+    background: #f4aa31;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.header-log-connected img.avatar{
+    height: 26px;
+    width: 26px;
+    border-radius: 13px;
+    vertical-align: middle;
+    margin-right: 5px;
+    border: 2px solid #f4aa31;
+}

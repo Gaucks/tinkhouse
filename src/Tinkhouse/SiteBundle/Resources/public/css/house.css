@@ -1,0 +1,125 @@
+.boxhouse{
+    width: 100%;
+    display: table;
+    margin-bottom: 50px;
+}
+
+.boxhouse>div{ display: table-cell; vertical-align: top }
+
+
+.box-home-btn{
+    margin-top: 50px;
+}
+
+input[type=button].button{
+    background: url('../images/ico/png_white/cloud-plus@2x.png') #a07ab8 no-repeat left -5px;
+    background-size: 30px; ;
+    font-weight: bold;
+    color: #FFFFFF;
+    border: 1px solid transparent;
+    padding: 5px 10px;
+    text-indent: 25px;
+}
+
+.boxhouse-img{
+    width: 150px;
+}
+
+    .boxhouse-img img.myhome{
+        width: 150px;
+    }
+
+    .home-ctt{
+        display: block;
+        width: 100%;
+        margin-bottom: 5px;
+    }
+
+.house-list-qu{
+    display: inline-block;
+    width: 80px;
+}
+.house-list-ans{
+    display: inline-block;
+}
+
+
+.boxhouse-ctt{
+    padding-left: 20px;
+}
+
+    .boxhouse-ctt h3.title{
+        font-size: 2em;
+        margin-bottom: 20px;
+    }
+
+    .boxhouse-gallery{
+        width: 100%;
+    }
+
+    .boxhouse-gallery-img{
+        float: left;
+        position: relative;
+        border: 1px solid transparent;
+        margin: 0 7px 7px 0px;
+        border-radius: 8px;
+        overflow: hidden;
+        color: #FFFFFF;
+    }
+
+        .gallery-header{
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            z-index: 1;
+            background: rgba(0,0,0, .5);
+            padding: 10px;
+        }
+
+        .gallery-footer{
+            position: absolute;
+            bottom: 0px;
+            left: 0;
+            width: 100%;
+            z-index: 1;
+            padding: 15px;
+            background: #edeeef;
+            color: #333;
+        }
+
+    .boxhouse-gallery-img img.gallery{
+        width: 240px;
+        height: 200px;
+    }
+
+/*LISTING ENERGIE*/
+.class-energie{
+    width: 40%;
+    border-right: 3px solid #000;
+}
+
+.energie{
+    display: block;
+    list-style-type: none;
+    color: #333333;
+    line-height: 1.5em;
+    border-radius: 0 20px 20px 0;
+}
+
+ul.energie-ul{}
+
+span.letter{ float: right; font-size: 1.3em; font-weight: bold; }
+span.mine{ background: #fff; font-weight: bold; margin-left: 10px; font-weight: bold; color: #a07ab8}
+p.listing{  display: inline-block; border-radius: 0 20px 20px 0; padding: 2px 10px; margin-bottom: 2px }
+
+.energie-list-titre{ font-style: italic; margin: 0; font-weight: bold }
+
+.listing-energie-list1{ background: #309030; width: 30%;}
+
+.listing-energie-list2{ background: #30c030; width: 37%;}
+.listing-energie-list3{ background: #c0ff30; width: 44%;}
+.listing-energie-list4{ background: #ffff00; width: 51%;}
+.listing-energie-list5{ background: #ffc000; width: 58%;}
+.listing-energie-list6{ background: #ff9030; width: 65%;}
+.listing-energie-list7{ background: #ff0000; width: 72%;}

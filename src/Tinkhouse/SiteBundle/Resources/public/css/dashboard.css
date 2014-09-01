@@ -1,0 +1,196 @@
+span.btn{
+    padding: 5px 10px;
+    border-radius: 4px;
+    margin-right: 10px;
+
+    text-transform: uppercase;
+    color: #ffffff;
+    font-size: 0.9em;
+    text-align: center;
+}
+
+span.btn-actu-chantier-first{
+    background: #f4aa31;
+}
+span.btn-actu-chantier-two{
+    background: #e96d68;
+}
+span.btn-actu-chantier-three{
+    background: #a07ab8;
+}
+
+.content-accueil-header{ display:table; width:100%; height: 100% }
+
+.content-accueil-header-top{
+    position: relative;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.content-accueil-box{ display: table; width: 100%; }
+.content-accueil-box>div{ display: table-cell; vertical-align:top; }
+
+.content-accueil-header-left{
+    position: relative;
+    height: 20px;
+}
+
+.content-accueil-header-right{
+    position: relative;
+    height: 100px;
+    overflow: hidden;
+    width: 40%;
+
+    border-radius: 8px;
+    background: #edeeef;
+}
+
+.blue{
+    display: table;
+    background: #137eae;
+
+    height: 40px;
+    width: 100%;
+
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size: 16px;
+    padding: 10px 10px;
+    text-align: center;
+    letter-spacing: 1px;
+}
+
+.blue>span{ display: table-cell; vertical-align: top;}
+
+.blue span.left{
+    width: 5%;
+    background: url('../images/ico/png_white/arrow-left@2x.png') transparent no-repeat center; background-size: 34px;
+}
+
+.blue span.center{
+    width: 90%;
+}
+
+.blue span.right{
+    width: 5%;
+    background: url('../images/ico/png_white/arrow-right@2x.png') transparent no-repeat center; background-size: 34px;
+}
+
+h3.title-box{
+    color: #f4aa31;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+/*LE DIARY*/
+
+.box-diary{
+    width: 100%;
+}
+
+.box-diary h3.diary-mess-owner{
+    margin-bottom: 10px;
+    padding-bottom: 5px;
+    border-bottom: 1px solid #137eae;
+
+    color: #137eae;
+}
+
+.box-diary h3.diary-mess-owner span.type-part{
+    float: right;
+    background: #f4aa31;
+    padding: 2px 10px;
+    border-radius: 10px;
+
+    color: #fff;
+    font-size: 0.8em;
+}
+
+.box-diary h3.diary-mess-owner span.type-pro{
+    float: right;
+    background: #a07ab8;
+    padding: 2px 10px;
+    border-radius: 10px;
+
+    color: #ffffff;
+    font-size: 0.8em;
+}
+
+.box-diary span.diary-mess-date{
+    padding: 5px;
+    width: 100%;
+    display: block;
+    height: 20px;
+    text-align: right;
+    border-radius: 2px;
+    color: #a8a6a3;
+    font-style: italic;
+    font-size: .85em;
+}
+
+.box-diary img.diary-pic{
+    max-width: 100%;
+    margin-bottom: 10px;
+}
+
+/*Le fil des actulités des chantiers*/
+.box-actu-chantier{
+    width: 95%;
+    padding: 20px 0;
+    border-top: 1px solid #ebeced;
+    border-bottom: 1px solid #ebeced;
+
+    text-align: justify;
+}
+
+
+.box-content{
+    margin-bottom: 20px;
+}
+
+
+/* La partie sur les devis */
+
+.dashboard-devis{
+    min-width: 450px;
+    width: 95%;
+    margin-right: 20px;
+    border-radius: 8px;
+    border: 1px solid #aaa;
+    overflow: hidden;
+}
+
+.dashboard-devis-header, .dashboard-devis-ct, .dashboard-devis-ct_loop{ width: 100%; color: #83796a; }
+
+.ddh, .ddc{ display: inline-block; padding: 5px; line-height: 1.5em; vertical-align: top;}
+.dashboard-devis-header{ background: #137eae; color: #fff; text-align: left; font-weight: bold; text-transform: uppercase}
+
+.dashboard-devis-ct_loop{ background: #edeeef;}
+.ddh-box-date, .ddc-box-date{ width: 10%; }
+.ddh-box-chantier, .ddc-box-chantier{ width: 41% }
+.ddh-box-pro, .ddc-box-pro{ width: 32%}
+.ddh-box-opt, .ddc-box-opt{ width: auto }
+
+.dashboard-devis-ct{ background: transparent;}
+
+.ddc-box-date{ color: #137eae;}
+
+.ddc-box-chantier{}
+
+.ddc-box-pro{}
+
+.ddc-box-opt{}
+
+img.devis-ico{
+    width: 18px;
+    margin: 2px 0px -5px 7px;
+}
+
+img.pro-avatar{
+    width: 18px;
+    height: 18px;
+
+    border: 2px solid #f4aa31;
+    border-radius: 9px;
+    margin: 2px 0px -5px 0px;
+}

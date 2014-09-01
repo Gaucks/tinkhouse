@@ -1,0 +1,91 @@
+.logobox{
+    width: 33.333333%;
+    float: left;
+    margin: -7px 0px 0 0px;
+    padding-bottom: 46px;
+    border-bottom: 3px solid transparent;
+}
+
+.box-logobox{
+    height: 52px;
+    border-bottom: 3px solid #757575
+}
+
+.logobox-logo1{ background: url('../images/ico/png_white/target@2x.png') transparent no-repeat center; background-size: 34px; }
+.logobox-logo2{ background: url('../images/ico/png_white/users-group@2x.png') transparent no-repeat center; background-size: 34px; }
+.logobox-logo3{ background: url('../images/ico/png_white/cup@2x.png') transparent no-repeat center; background-size: 34px; }
+
+.logobox-logo1:hover{ border-bottom: 3px solid #4ba8a6 }
+.logobox-logo2:hover{ border-bottom: 3px solid #f16867 }
+.logobox-logo3:hover{ border-bottom: 3px solid #f2b540 }
+
+h3.propose-title{
+    text-align: left;
+    margin: 10px 0 20px 20px;
+    color: #a07ab8;
+ }
+
+h3.propose-title-tinker{
+    float: left;
+    font-size: 14px;
+    margin: 0px 0 20px 10px;
+    color: #a07ab8;
+}
+
+/* Les proposition de tinker */
+.box-propose-tinker{
+    width: 90%;
+    border-bottom: 1px solid #ebeced;
+    padding: 20px 0;
+    margin: 0 auto;
+}
+
+.box-propose-tinker-ctt{
+    display: inline-block;
+    margin-bottom: 10px;
+    width: 100%;
+    border-radius: 30px;
+    position: relative;
+    color: #ffffff;
+    background: #5a5a5a;
+    border: 1px inset #5a5a5a;
+    overflow: hidden;
+}
+
+.box-propose-tinker-img{
+    position: relative;
+    height: 60px;
+}
+
+img.img-tinker{
+    width: 100%;
+    position: absolute;
+    z-index: 0;
+    top: 0;
+}
+
+.box-propose-tinker-img h3{
+    position: absolute;
+    line-height: 3.2em;
+    color: #f2b540;
+    letter-spacing: 1px;
+    top: 10px;
+    left: 10px;
+    right: 10px;
+    font-weight: bold;
+    text-shadow: 1px 1px 1px #333;
+}
+
+.box-propose-friends{
+    width: 100%;
+    text-align: center;
+    margin: 0 auto;
+    padding: 10px 0;
+}
+
+img.img-propose-friends{
+    height: 40px;
+    width: 40px;
+    border-radius: 4px;
+    margin: 0 0 5px 5px;
+}

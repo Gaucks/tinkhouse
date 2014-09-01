@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <title>{% block title %}Tinkhouse!{% endblock %}</title>
+
+        {% block stylesheets %}
+            {% stylesheets filter="cssrewrite" 'bundles/site/css/*.css' %}
+            <link rel="stylesheet" href="{{ asset_url }}" type="text/css" />
+            {% endstylesheets %}
+        {% endblock %}
+
+        <link rel="icon" type="image/x-icon" href="{{ asset('favicon.ico') }}" />
+    </head>
+    <body>
+    <div id="site">
+
+        {# Le header #}
+        {#{% include 'SiteBundle:Template:header.html.twig' %}#}
+
+        {# Le menu du site #}
+            {% include'SiteBundle:Template:menu.html.twig' %}
+
+        {# Le contenu #}
+            <div class="content" id="template-content">
+                <header>{% include 'SiteBundle:Template:header.html.twig' %}</header>
+                <div class="content-box">
+                    {% block body %}{% endblock %}
+                </div>
+            </div>
+
+        {# Le cadre des options #}
+            <div class="options" id="template-option">
+                {% include 'SiteBundle:Template:options.html.twig' %}
+            </div>
+
+
+
+        {# Le footer #}
+        {% include 'SiteBundle:Template:footer.html.twig' %}
+    </div>
+        {% block javascripts %}
+            {% javascripts 'bundles/site/js/jquery-2.1.1.min.js'
+                          'bundles/site/js/menu.js'
+            %}
+            <script src="{{ asset_url }}"></script>
+            {% endjavascripts %}
+        {% endblock %}
+    </body>
+</html>

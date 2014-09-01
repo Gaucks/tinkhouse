@@ -1,0 +1,9 @@
+site_homepage:
+    path:     /
+    defaults: { _controller: SiteBundle:Default:index }
+
+site_house:
+    path:     /my-house
+    defaults: { _controller: SiteBundle:Default:house }
+
+
