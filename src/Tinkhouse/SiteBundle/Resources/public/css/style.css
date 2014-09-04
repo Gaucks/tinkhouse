@@ -23,7 +23,6 @@ a.link-menulist{ color: inherit; }
 a.link-menulist:hover{ color: #ffffff; }
 a.link-menulist-selected{ color: #ffffff; }
 
-
 ::-webkit-scrollbar {
     width: 5px; /*largeur de la scrollbar verticale*/
     height: 5px; /*hauteur de la scrollbar horizontale*/
@@ -54,7 +53,6 @@ a.link-menulist-selected{ color: #ffffff; }
 
 .options{
     position: relative;
-    float: right;
     width: 200px;
     background: #494949;
 }

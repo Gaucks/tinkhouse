@@ -8,6 +8,11 @@ class DefaultController extends Controller
 {
     public function indexAction()
     {
+        return $this->render('SiteBundle:Accueil:accueil.html.twig');
+    }
+
+    public function dashboardAction()
+    {
         return $this->render('SiteBundle:Dashboard:dashboard.html.twig');
     }
 

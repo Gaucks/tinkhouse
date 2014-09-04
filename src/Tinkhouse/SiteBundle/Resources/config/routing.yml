@@ -2,6 +2,10 @@ site_homepage:
     path:     /
     defaults: { _controller: SiteBundle:Default:index }
 
+site_dashboard:
+    path:     /dashboard
+    defaults: { _controller: SiteBundle:Default:dashboard }
+
 site_house:
     path:     /my-house
     defaults: { _controller: SiteBundle:Default:house }

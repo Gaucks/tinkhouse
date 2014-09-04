@@ -1,0 +1,7 @@
+1/ Page d'accueil
+
+    * Connecter l'utilisateur
+    * Proposer l'inscription
+    * Rapide description du site
+
+2/

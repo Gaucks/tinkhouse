@@ -1,0 +1,103 @@
+a.inherit{ color: inherit; text-decoration: none;}
+
+.box-fos-content{
+    margin: 0 auto ;
+    min-height: 450px;
+    padding: 40px 0;
+}
+.box-fos-content-register{
+    background: url('../../site/images/flat.jpg') no-repeat 100% 50%;
+    background-size: cover;
+}
+
+.error{
+    color: #e96d68;
+}
+
+    .error ul{
+        margin-bottom: 5px;
+    }
+
+label.label{
+    width: 180px;
+    display: inline-block;
+}
+
+.register-box{
+    padding: 10px 0 5px 0;
+}
+
+.fos_user-register-box{
+    position: relative;
+    width: 500px;
+    overflow: hidden;
+    margin: 0 auto;
+    border-radius: 8px;
+    padding: 20px;
+
+    background: rgba(237,238,239, .95);
+}
+
+.fos_user-register-box-header{
+    display: table;
+    background: #137eae;
+    margin: -20px -20px 20px -20px;
+    height: 40px;
+    width: 500px;
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size: 16px;
+    padding: 10px 10px;
+    text-align: center;
+    letter-spacing: 1px;
+}
+
+.fos_user-register-box-content{
+    font-size: 1.2em;
+
+}
+
+.fos_user-register-box-content input.register{
+    width: 220px;
+    display: inline-block;
+    background: transparent;
+    border: none;
+    border-bottom: 1px dashed #137eae;
+    outline: none;
+    font-size: 1em;
+    font-style: italic;
+    margin-bottom: -10px;
+    color: #333333;
+}
+
+.fos_user-register-box-content input:focus{
+    background: transparent;
+    color: #a07ab8;
+}
+
+.fos_user-register-box-content select{
+    background: transparent;
+    border: none;
+    font-size: 1em;
+    margin-left: -10px;
+    font-style: italic;
+    color: #137eae;
+}
+
+input.btn-register{
+    background: #f4aa31;
+    padding: 5px 20px;
+    float: right;
+    width: auto;
+    font-size: 1em;
+    border: transparent;
+}
+
+input.btn-register:focus{
+    background: #f4aa31;
+    color: #FFFFFF;
+}
+
+.fos_user-register-box-footer{
+
+}

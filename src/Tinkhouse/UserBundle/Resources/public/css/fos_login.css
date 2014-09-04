@@ -1,0 +1,82 @@
+.box-form{
+    margin-bottom: 20px;
+}
+
+.box-fos-signin{
+    background: -webkit-linear-gradient(top, #fff 0%, rgba(255,255,255,0) 100%) 0 top/100% 120px repeat-x #f9fbfc;
+    background: -moz-linear-gradient(top, #fff 0%, rgba(255,255,255,0) 100%) 0 top/100% 120px repeat-x #f9fbfc;
+    background: -ms-linear-gradient(top, #fff 0%, rgba(255,255,255,0) 100%) 0 top/100% 120px repeat-x #f9fbfc;
+    background: linear-gradient(to bottom, #fff 0%, rgba(255,255,255,0) 100%) 0 top/100% 120px repeat-x #f9fbfc;
+}
+
+.fos_user-login-box-header{
+    width: 300px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.fos_user-login-box-header h2{
+    color: #525557;
+    font-size: 2em;
+    font-weight: 300;
+    background: -webkit-linear-gradient(#222, #999);
+    background-size: 100% 24px;
+    background-position: center 4px;
+    background-repeat: repeat-x;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+button.blue.large, input[type='submit'].blue.large {
+    font-size: 1.3em;
+    font-weight: 500;
+    letter-spacing: -0.5px;
+    padding: 8px 20px 10px 20px;
+    border-radius: 8px;
+    width: 100%;
+}
+
+button.blue, input[type='submit'].blue {
+    background-image: -webkit-linear-gradient(top, #77b0e0 0%, #3574c1 100%);
+    background-image: -moz-linear-gradient(top, #77b0e0 0%, #3574c1 100%);
+    background-image: -ms-linear-gradient(top, #77b0e0 0%, #3574c1 100%);
+    background-image: linear-gradient(to bottom, #77b0e0 0%, #3574c1 100%);
+    box-shadow: inset 0 0 0 1px rgba(0,0,0,0.15),0 1px 3px rgba(0,0,0,0.15);
+    color: #fff;
+    text-shadow: 0 -1px 0 rgba(0,0,0,0.3);
+    border: none;
+}
+
+.fos_user-login-box-content{
+    width: 450px;
+    background: #fff;
+    box-shadow: 0 0 0 1px rgba(59,67,77,0.1),0 1px 4px rgba(59,67,77,0.2);
+    border-radius: 5px;
+    margin: 32px auto;
+    padding: 18px 24px 24px 24px;
+}
+
+.fos_user-login-box-content label.login_label{
+    margin: 0 8px 10px 0;
+    display: block;
+    width: 100%;
+    overflow: hidden;
+    text-align: left;
+    font-size: 1.2em;
+}
+
+.fos_user-login-box-content input.login{
+    width: 100%;
+    border: 1px solid #ccc;
+    box-shadow: inset 0 1px 3px rgba(0,0,0,0.1),0 0 4px rgba(116,181,248,0);
+    border-radius: 4px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    -webkit-transition: border ease 0.2s,box-shadow ease 0.2s;
+    -moz-transition: border ease 0.2s,box-shadow ease 0.2s;
+    transition: border ease 0.2s,box-shadow ease 0.2s;
+    margin-bottom: 30px;
+    font-size: 1.2em;
+    color: #757b7f;
+}

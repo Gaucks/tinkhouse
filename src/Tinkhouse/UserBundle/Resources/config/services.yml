@@ -1,0 +1,8 @@
+parameters:
+#    user.example.class: Tinkhouse\UserBundle\Example
+
+services:
+    tinkhouse_user.registration.form.type:
+        class: Tinkhouse\UserBundle\Form\Type\RegistrationFormType
+        tags:
+            - { name: form.type, alias: tinkhouse_user_registration }

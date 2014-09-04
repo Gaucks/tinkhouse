@@ -1,0 +1,136 @@
+html, body{
+     height: 100%;
+     width: 100%;
+}
+
+body{
+    background: #FFFFFF;
+    font: 12px "Helvetica Neue","Helvetica","Lucida Grande","Arial","SANS-SERIF";
+    color: #83796a;
+}
+.clear{ clear: both;}
+h1{ font-size: 1.6em; color: #fff; letter-spacing: 1px;  }
+h2{ font-size: 1.5em; }
+* { box-sizing: border-box }
+
+
+span.arrow{
+    font-size: 3em;
+    display: inline-block;
+    position: absolute;
+    top: -15px;
+    color: #6c6c6c;
+}
+
+span.arrow-right{ right: 0; top: -10px; }
+span.arrow-left{ left: 0}
+
+.box{
+    width: 900px;
+    margin: 0 auto;
+    position: relative;
+}
+
+
+.box-accueil-header{
+    height: 40px;
+}
+
+.bah-box{
+    padding: 10px 0;
+}
+
+.bah-box h1.site-title{
+    font-size: 2em;
+    margin-top: -5px;
+    color: #9f7cb6;
+    text-shadow: 1px 1px 1px #ccc;
+}
+
+
+.box-accueil-underheader{
+    padding: 40px 0;
+
+    background: #9f7cb6;
+    color: #FFF;
+
+    text-align: center;
+}
+
+.box-choice{
+    width: 900px;
+    margin: 0 auto;
+    margin-top: 40px;
+    text-align: center;
+}
+
+.user-account-choice{
+    margin-top: 20px;
+}
+
+.btn {
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    color: #ffffff;
+    font-size: 1.5em;
+    background: #98d2a1;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    border: 1px solid transparent;
+    width: 160px;
+    margin: 0 20px 0 20px;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background: #9f7cb6;
+    text-decoration: none;
+}
+
+.btn-more{
+    background: #f4aa31;
+    padding: 5px 20px;
+    float: right;
+    width: auto;
+    margin-top: -7px;
+    font-size: 1em;
+}
+
+.btn-login{
+    background: #e96d68;
+    padding: 5px 20px;
+    float: right;
+    width: auto;
+    margin-top: -3px;
+    font-size: 1em;
+    margin-right: 0;
+}
+
+.btn-pro{
+    background: #f4aa31;
+}
+
+.btn-part{
+    background: #98d2a1;
+}
+
+.box-content{
+    width: 900px;
+    margin: 0 auto;
+    margin-top: 20px;
+    height: 300px;
+    background: url('../../images/bricolage-01.jpg') no-repeat 70% 0%;
+}
+
+.footer{
+    width: 100%;
+    background: #f8f8f8;
+}
+
+.footer-box{
+    margin: 0 auto;
+    width: 900px;
+    padding: 20px 0;
+    font-size: 1.5em;
+}

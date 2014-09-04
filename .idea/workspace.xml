@@ -23,37 +23,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="options.html.twig" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/views/Template/options.html.twig">
+      <file leaf-file-name="login.html.twig" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Tinkhouse/UserBundle/Resources/views/Security/login.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="40" selection-start="655" selection-end="655" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="840">
+            <state line="9" column="32" selection-start="215" selection-end="229" vertical-scroll-proportion="0.0" vertical-offset="162" max-vertical-offset="990">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="options.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/public/css/options.css">
+      <file leaf-file-name="fos_login.css" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Tinkhouse/UserBundle/Resources/public/css/fos_login.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="4" selection-start="920" selection-end="936" vertical-scroll-proportion="0.0" vertical-offset="797" max-vertical-offset="1440">
+            <state line="4" column="13" selection-start="52" selection-end="52" vertical-scroll-proportion="0.11197512" vertical-offset="0" max-vertical-offset="1566">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="house.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/public/css/house.css">
+      <file leaf-file-name="accueil.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/public/css/accueil/accueil.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="57" column="5" selection-start="932" selection-end="932" vertical-scroll-proportion="0.0" vertical-offset="739" max-vertical-offset="1950">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="house_content.html.twig" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/views/House/house_content.html.twig">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="53" column="151" selection-start="2132" selection-end="2132" vertical-scroll-proportion="0.5541195" vertical-offset="452" max-vertical-offset="1665">
+            <state line="6" column="13" selection-start="71" selection-end="71" vertical-scroll-proportion="0.0" vertical-offset="108" max-vertical-offset="2556">
               <folding />
             </state>
           </provider>
@@ -69,31 +60,57 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/public/css/reset.css" />
         <option value="$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/views/layout.html.twig" />
         <option value="$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/views/Template/footer.html.twig" />
         <option value="$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/public/css/footer.css" />
         <option value="$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/views/Template/option.html.twig" />
         <option value="$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/views/Dashboard/dashboard.html.twig" />
-        <option value="$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Controller/DefaultController.php" />
         <option value="$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/views/Default/index.html.twig" />
         <option value="$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/views/House/house.html.twig" />
-        <option value="$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/config/routing.yml" />
-        <option value="$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/views/Template/menu.html.twig" />
         <option value="$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/public/css/content.css" />
         <option value="$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/public/css/menu.css" />
         <option value="$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/views/Template/header.html.twig" />
         <option value="$PROJECT_DIR$/app/Resources/views/base.html.twig" />
         <option value="$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/public/js/menu.js" />
-        <option value="$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/public/css/style.css" />
         <option value="$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/public/css/house.css" />
         <option value="$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/public/css/header.css" />
         <option value="$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/views/Dashboard/dashboard_content.html.twig" />
         <option value="$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/public/css/dashboard.css" />
         <option value="$PROJECT_DIR$/web/bundles/site/css/options.css" />
         <option value="$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/views/Template/options.html.twig" />
-        <option value="$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/public/css/options.css" />
         <option value="$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/views/House/house_content.html.twig" />
+        <option value="$PROJECT_DIR$/app/config/parameters.yml" />
+        <option value="$PROJECT_DIR$/app/config/security.yml" />
+        <option value="$PROJECT_DIR$/Todo.txt" />
+        <option value="$PROJECT_DIR$/src/Tinkhouse/UserBundle/Resources/config/routing.yml" />
+        <option value="$PROJECT_DIR$/src/Tinkhouse/UserBundle/Entity/user.php" />
+        <option value="$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Controller/DefaultController.php" />
+        <option value="$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/config/routing.yml" />
+        <option value="$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/views/Template/menu.html.twig" />
+        <option value="$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/public/css/options.css" />
+        <option value="$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/views/Accueil/accueil.html.twig" />
+        <option value="$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/public/css/accueil.css" />
+        <option value="$PROJECT_DIR$/composer.json" />
+        <option value="$PROJECT_DIR$/app/AppKernel.php" />
+        <option value="$PROJECT_DIR$/src/Tinkhouse/UserBundle/UserBundle.php" />
+        <option value="$PROJECT_DIR$/app/config/routing.yml" />
+        <option value="$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/views/Accueil/accueil_footer.html.twig" />
+        <option value="$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/views/Accueil/accueil_content.html.twig" />
+        <option value="$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/views/Accueil/choice.html.twig" />
+        <option value="$PROJECT_DIR$/src/Tinkhouse/UserBundle/Entity/tH/UserType.php" />
+        <option value="$PROJECT_DIR$/src/Tinkhouse/UserBundle/Entity/User.php" />
+        <option value="$PROJECT_DIR$/app/config/config.yml" />
+        <option value="$PROJECT_DIR$/src/Tinkhouse/UserBundle/Resources/config/services.yml" />
+        <option value="$PROJECT_DIR$/src/Tinkhouse/UserBundle/Form/Type/RegistrationFormType.php" />
+        <option value="$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/public/css/style.css" />
+        <option value="$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/views/Accueil/accueil_header.html.twig" />
+        <option value="$PROJECT_DIR$/src/Tinkhouse/UserBundle/Resources/views/Registration/register_content.html.twig" />
+        <option value="$PROJECT_DIR$/src/Tinkhouse/UserBundle/Resources/views/layout.html.twig" />
+        <option value="$PROJECT_DIR$/src/Tinkhouse/UserBundle/Resources/public/css/fos.css" />
+        <option value="$PROJECT_DIR$/app/Resources/views/base_accueil.html.twig" />
+        <option value="$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/public/css/accueil/accueil.css" />
+        <option value="$PROJECT_DIR$/src/Tinkhouse/UserBundle/Resources/views/Security/login.html.twig" />
+        <option value="$PROJECT_DIR$/src/Tinkhouse/UserBundle/Resources/public/css/fos_login.css" />
       </list>
     </option>
   </component>
@@ -129,21 +146,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Problems" />
-        <subPane subId="Project Files">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="tinkhouse">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -162,130 +164,19 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Problems" />
+        <subPane subId="Project Files">
           <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tinkhouse" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tinkhouse" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tinkhouse" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tinkhouse" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Tinkhouse" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SiteBundle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tinkhouse" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tinkhouse" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Tinkhouse" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SiteBundle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tinkhouse" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tinkhouse" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Tinkhouse" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SiteBundle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="House" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tinkhouse" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tinkhouse" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Tinkhouse" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SiteBundle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            <PATH_ELEMENT USER_OBJECT="tinkhouse">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -302,9 +193,14 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Tinkhouse/UserBundle/Resources" />
+      <recent name="$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/views/Accueil" />
       <recent name="$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/public/images/ico" />
       <recent name="$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/public/js" />
       <recent name="$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/public/images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/public/css/accueil" />
     </key>
   </component>
   <component name="RunManager">
@@ -334,7 +230,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1280" height="774" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32748538" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -343,20 +239,20 @@
       <window_info id="Framework" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Symfony2" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32748538" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2536349" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18416801" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2996769" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -376,265 +272,269 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/public/css/content.css">
+    <entry file="file://$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/public/css/house.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="16" selection-start="41" selection-end="41" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2160" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/views/Default/index.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="58" selection-start="804" selection-end="812" vertical-scroll-proportion="0.0" vertical-offset="315" max-vertical-offset="1440" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/public/css/content.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="74" column="36" selection-start="1420" selection-end="1426" vertical-scroll-proportion="0.0" vertical-offset="694" max-vertical-offset="1815" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/public/css/menu.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="23" selection-start="29" selection-end="35" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="1305" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/views/Default/index.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="65" column="64" selection-start="3792" selection-end="3792" vertical-scroll-proportion="0.0" vertical-offset="598" max-vertical-offset="1230" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/public/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="0" selection-start="896" selection-end="896" vertical-scroll-proportion="0.0" vertical-offset="780" max-vertical-offset="900" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Resources/views/base.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="18" selection-start="1414" selection-end="1414" vertical-scroll-proportion="0.0" vertical-offset="600" max-vertical-offset="840" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/public/css/options.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="778" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="375" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/public/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="32" selection-start="600" selection-end="619" vertical-scroll-proportion="0.0" vertical-offset="390" max-vertical-offset="780" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/public/css/header.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="51" column="21" selection-start="806" selection-end="806" vertical-scroll-proportion="0.0" vertical-offset="765" max-vertical-offset="1140" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/views/Template/header.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="105" selection-start="500" selection-end="500" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="315" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/public/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="32" selection-start="600" selection-end="619" vertical-scroll-proportion="0.0" vertical-offset="390" max-vertical-offset="780" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/public/css/header.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="51" column="21" selection-start="806" selection-end="806" vertical-scroll-proportion="0.0" vertical-offset="471" max-vertical-offset="1140" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/views/Template/header.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="42" selection-start="706" selection-end="706" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="315" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/public/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="23" selection-start="689" selection-end="695" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="780" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/views/Template/menu.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="25" selection-start="191" selection-end="199" vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="390" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/public/css/menu.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="23" selection-start="29" selection-end="35" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="1065" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/public/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="27" selection-start="92" selection-end="98" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="390" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/views/Template/header.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="156" selection-start="1113" selection-end="1113" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="390" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/public/css/header.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="57" column="13" selection-start="1254" selection-end="1254" vertical-scroll-proportion="0.0" vertical-offset="319" max-vertical-offset="1050" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/public/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="0" selection-start="282" selection-end="282" vertical-scroll-proportion="0.0" vertical-offset="19" max-vertical-offset="555" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/views/Default/index.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="174" selection-end="174" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="225" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Controller/DefaultController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="1" selection-start="300" selection-end="300" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Controller/DefaultController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="1" selection-start="300" selection-end="300" vertical-scroll-proportion="0.0" vertical-offset="208" max-vertical-offset="320" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Controller/DefaultController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="109" selection-end="109" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Controller/DefaultController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="5" selection-start="297" selection-end="297" vertical-scroll-proportion="0.0" vertical-offset="198" max-vertical-offset="342" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/public/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="108" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/views/layout.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="32" selection-start="32" selection-end="32" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="632" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/public/css/footer.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="656" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/views/Template/footer.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="632" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/public/css/reset.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="762" selection-start="818" selection-end="818" vertical-scroll-proportion="0.023400936" vertical-offset="0" max-vertical-offset="641" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/views/Default/index.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/config/routing.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="23" selection-start="123" selection-end="123" vertical-scroll-proportion="0.1736111" vertical-offset="0" max-vertical-offset="432" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/views/House/house.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="19" selection-start="142" selection-end="142" vertical-scroll-proportion="0.07120253" vertical-offset="0" max-vertical-offset="632" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/public/css/content.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="656" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Controller/DefaultController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="56" selection-start="246" selection-end="255" vertical-scroll-proportion="0.23734178" vertical-offset="0" max-vertical-offset="632" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/public/css/menu.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="20" selection-start="133" selection-end="133" vertical-scroll-proportion="0.16587678" vertical-offset="0" max-vertical-offset="1305" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/views/Template/menu.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="76" selection-start="1487" selection-end="1487" vertical-scroll-proportion="0.3634895" vertical-offset="0" max-vertical-offset="619" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Resources/views/base.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="69" selection-start="1145" selection-end="1145" vertical-scroll-proportion="-11.958333" vertical-offset="208" max-vertical-offset="840" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/public/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="0" selection-start="1175" selection-end="1175" vertical-scroll-proportion="0.3597561" vertical-offset="439" max-vertical-offset="1125" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/public/js/menu.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="33" selection-start="160" selection-end="160" vertical-scroll-proportion="0.18292683" vertical-offset="0" max-vertical-offset="656" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/views/Template/header.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="61" selection-start="630" selection-end="630" vertical-scroll-proportion="0.2180937" vertical-offset="0" max-vertical-offset="619" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/public/css/header.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="23" selection-start="87" selection-end="87" vertical-scroll-proportion="0.09146342" vertical-offset="0" max-vertical-offset="1230" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/public/css/dashboard.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="184" column="13" selection-start="3585" selection-end="3585" vertical-scroll-proportion="0.5800933" vertical-offset="2387" max-vertical-offset="3030" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/views/Dashboard/dashboard.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="46" selection-start="99" selection-end="116" vertical-scroll-proportion="0.047468353" vertical-offset="0" max-vertical-offset="632" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/views/Dashboard/dashboard_content.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="64" column="70" selection-start="3450" selection-end="3450" vertical-scroll-proportion="0.9716312" vertical-offset="412" max-vertical-offset="2340" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/bundles/site/css/options.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="57" column="23" selection-start="1416" selection-end="1416" vertical-scroll-proportion="0.46345258" vertical-offset="557" max-vertical-offset="1275" />
+        <state line="57" column="5" selection-start="932" selection-end="932" vertical-scroll-proportion="0.17682926" vertical-offset="739" max-vertical-offset="1950" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/views/Template/options.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="40" selection-start="655" selection-end="655" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="840">
-          <folding />
-        </state>
+        <state line="19" column="40" selection-start="655" selection-end="655" vertical-scroll-proportion="0.37974682" vertical-offset="45" max-vertical-offset="840" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/parameters.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="26" selection-start="233" selection-end="233" vertical-scroll-proportion="0.24305555" vertical-offset="0" max-vertical-offset="432" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tinkhouse/UserBundle/DependencyInjection/Configuration.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.29113925" vertical-offset="115" max-vertical-offset="510" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/routing_dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="656" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tinkhouse/SiteBundle/SiteBundle.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="656" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tinkhouse/UserBundle/DependencyInjection/UserExtension.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="465" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Todo.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="32" selection-start="110" selection-end="110" vertical-scroll-proportion="0.09146342" vertical-offset="0" max-vertical-offset="656" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/views/Dashboard/dashboard.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="145" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="632" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/views/Template/menu.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="80" selection-start="1034" selection-end="1034" vertical-scroll-proportion="-7.5" vertical-offset="0" max-vertical-offset="390" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/public/css/options.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="4" selection-start="920" selection-end="936" vertical-scroll-proportion="0.0" vertical-offset="797" max-vertical-offset="1440">
+        <state line="2" column="15" selection-start="44" selection-end="48" vertical-scroll-proportion="0.048387095" vertical-offset="0" max-vertical-offset="1440" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/config/routing.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="14" selection-start="88" selection-end="102" vertical-scroll-proportion="0.09478673" vertical-offset="0" max-vertical-offset="633" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Controller/DefaultController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="37" selection-start="309" selection-end="309" vertical-scroll-proportion="0.3085443" vertical-offset="0" max-vertical-offset="632" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/views/Accueil/accueil.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="26" selection-start="26" selection-end="26" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="632" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/public/css/header.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="63" column="23" selection-start="1020" selection-end="1026" vertical-scroll-proportion="0.5655488" vertical-offset="574" max-vertical-offset="1230" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/public/css/menu.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="34" selection-start="640" selection-end="646" vertical-scroll-proportion="0.3140244" vertical-offset="424" max-vertical-offset="1305" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/AppKernel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="55" selection-start="936" selection-end="936" vertical-scroll-proportion="0.25" vertical-offset="198" max-vertical-offset="645" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.lock">
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="27570" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="42" selection-start="823" selection-end="823" vertical-scroll-proportion="0.49841774" vertical-offset="0" max-vertical-offset="1005" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tinkhouse/UserBundle/UserBundle.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="4" selection-start="159" selection-end="159" vertical-scroll-proportion="0.2136076" vertical-offset="0" max-vertical-offset="632" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/routing.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="13" selection-start="315" selection-end="315" vertical-scroll-proportion="0.2972561" vertical-offset="0" max-vertical-offset="656" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tinkhouse/UserBundle/Resources/config/routing.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="20" selection-start="573" selection-end="573" vertical-scroll-proportion="0.41158536" vertical-offset="0" max-vertical-offset="656" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/views/Accueil/accueil_footer.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="6" selection-start="227" selection-end="227" vertical-scroll-proportion="0.18987341" vertical-offset="0" max-vertical-offset="632" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/public/css/content.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="656" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tinkhouse/UserBundle/Resources/views/Registration/register.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="25" selection-start="58" selection-end="74" vertical-scroll-proportion="0.047468353" vertical-offset="0" max-vertical-offset="632" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/views/Accueil/choice.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="41" selection-start="196" selection-end="196" vertical-scroll-proportion="0.094936706" vertical-offset="0" max-vertical-offset="632" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/views/Accueil/accueil_content.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="29" selection-start="81" selection-end="87" vertical-scroll-proportion="0.023734177" vertical-offset="0" max-vertical-offset="632" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/FOS/UserBundle/Resources/doc/form_type.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="576" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/security.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="46" selection-start="781" selection-end="781" vertical-scroll-proportion="0.7393365" vertical-offset="0" max-vertical-offset="633" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/FOS/UserBundle/Resources/doc/configuration_reference.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1278" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tinkhouse/UserBundle/Resources/config/services.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="13" selection-start="90" selection-end="90" vertical-scroll-proportion="0.11374407" vertical-offset="0" max-vertical-offset="633" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="77" column="22" selection-start="2179" selection-end="2179" vertical-scroll-proportion="2.1895735" vertical-offset="0" max-vertical-offset="1710" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/FOS/UserBundle/Resources/doc/index.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="9000" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/FOS/UserBundle/Resources/doc/overriding_forms.md">
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="34" selection-start="140" selection-end="300" vertical-scroll-proportion="0.14610389" vertical-offset="0" max-vertical-offset="3006" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tinkhouse/UserBundle/Entity/tH/UserType.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="56" selection-start="429" selection-end="429" vertical-scroll-proportion="0.74050635" vertical-offset="0" max-vertical-offset="1260" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tinkhouse/UserBundle/Entity/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="23" selection-start="446" selection-end="455" vertical-scroll-proportion="-9.0" vertical-offset="180" max-vertical-offset="1242" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/FOS/UserBundle/Form/Type/RegistrationFormType.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="14" selection-start="1005" selection-end="1397" vertical-scroll-proportion="0.60402685" vertical-offset="198" max-vertical-offset="972" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/FOS/UserBundle/Model/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-1.0344827" vertical-offset="630" max-vertical-offset="10638" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/FOS/UserBundle/Entity/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="643" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/public/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="21" selection-start="650" selection-end="650" vertical-scroll-proportion="0.0" vertical-offset="108" max-vertical-offset="1314" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/base.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="28" selection-start="1104" selection-end="1104" vertical-scroll-proportion="0.6727273" vertical-offset="335" max-vertical-offset="1008" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tinkhouse/UserBundle/Form/Type/RegistrationFormType.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="165" selection-start="1168" selection-end="1168" vertical-scroll-proportion="0.77956986" vertical-offset="16" max-vertical-offset="756" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/public/css/dashboard.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="23" selection-start="80" selection-end="80" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3636" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/views/Accueil/accueil_header.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="56" selection-start="119" selection-end="119" vertical-scroll-proportion="0.05815832" vertical-offset="0" max-vertical-offset="619" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tinkhouse/UserBundle/Resources/views/Registration/register_content.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="7" selection-start="44" selection-end="2210" vertical-scroll-proportion="0.94184166" vertical-offset="371" max-vertical-offset="1062" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tinkhouse/UserBundle/Resources/views/layout.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="0" selection-start="393" selection-end="393" vertical-scroll-proportion="-12.75" vertical-offset="0" max-vertical-offset="450" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tinkhouse/UserBundle/Resources/public/css/fos.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="1" selection-start="263" selection-end="263" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="1944" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/base_accueil.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="55" selection-start="312" selection-end="312" vertical-scroll-proportion="0.11708861" vertical-offset="88" max-vertical-offset="720" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/public/css/accueil/accueil.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="13" selection-start="71" selection-end="71" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2556">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/public/css/house.css">
+    <entry file="file://$PROJECT_DIR$/src/Tinkhouse/UserBundle/Resources/views/Security/login.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="57" column="5" selection-start="932" selection-end="932" vertical-scroll-proportion="0.0" vertical-offset="739" max-vertical-offset="1950">
+        <state line="9" column="32" selection-start="215" selection-end="229" vertical-scroll-proportion="0.0" vertical-offset="162" max-vertical-offset="990">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tinkhouse/SiteBundle/Resources/views/House/house_content.html.twig">
+    <entry file="file://$PROJECT_DIR$/src/Tinkhouse/UserBundle/Resources/public/css/fos_login.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="53" column="151" selection-start="2132" selection-end="2132" vertical-scroll-proportion="0.5541195" vertical-offset="452" max-vertical-offset="1665">
+        <state line="4" column="13" selection-start="52" selection-end="52" vertical-scroll-proportion="0.11197512" vertical-offset="0" max-vertical-offset="1566">
           <folding />
         </state>
       </provider>

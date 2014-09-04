@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <title>{% block title %}Tinkhouse | Accueil!{% endblock %}</title>
+
+    {% block stylesheets %}
+        {% stylesheets filter="cssrewrite"
+                            'bundles/user/css/fos.css'
+                            'bundles/user/css/fos_login.css'
+                            'bundles/site/css/reset.css'
+                            'bundles/site/css/accueil/accueil.css'
+        %}
+        <link rel="stylesheet" href="{{ asset_url }}" type="text/css" />
+        {% endstylesheets %}
+    {% endblock %}
+
+    <link rel="icon" type="image/x-icon" href="{{ asset('favicon.ico') }}" />
+</head>
+<body>
+
+
+<div id="site"> {% block body %}{% endblock %} </div>
+
+
+{% block javascripts %}
+    {% javascripts 'bundles/site/js/jquery-2.1.1.min.js'
+    %}
+    <script src="{{ asset_url }}"></script>
+    {% endjavascripts %}
+{% endblock %}
+
+</body>
+</html>
